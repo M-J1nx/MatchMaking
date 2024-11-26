@@ -1,12 +1,8 @@
-# Match Making
+# Unity Functions
 <br>
 
 ##  Introduce
-This repository represent example code of **match making** function in Unity. You can use this when you're making multiplay game. 
-<br><br>
-
-## ✨ What is Match Making?  
-Match making originally means the activity of arranging marriages or romantic relationships between people. However, we use the word 'match making' in game when we're connecting more than two people in same server so that players can interact each other in same game. 
+This repository represent example code of **various function** in Unity(Ex. Match making). You can use one of this codes when you're making game with Unity, C#. 
 <br><br>
 
 ## ✨ Environment
