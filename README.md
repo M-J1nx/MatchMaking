@@ -1,7 +1,7 @@
 # Unity Functions
 <br>
 
-##  Introduce
+## ✨ Introduce
 This repository represent example code of **various function** in Unity(Ex. Match making). You can use one of this codes when you're making game with Unity, C#. 
 <br><br>
 
