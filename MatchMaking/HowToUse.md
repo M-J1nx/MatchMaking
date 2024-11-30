@@ -12,13 +12,13 @@ I'll let you know know how to apply photon&cinemachine in next step.
 <br><br>
 
 ## ✨ Photon Setting 
-![image](https://github.com/user-attachments/assets/3c61830e-2c32-426e-9ca5-e8cdf5568398)
+![image](https://github.com/user-attachments/assets/3c61830e-2c32-426e-9ca5-e8cdf5568398)  
 1. After you install PUN2(Photon engine), access to unity and click window -> Package Manager -> My Assets
-![image](https://github.com/user-attachments/assets/573e091a-c2dc-45f3-b8bc-fe09de119481)
+![image](https://github.com/user-attachments/assets/573e091a-c2dc-45f3-b8bc-fe09de119481)  
 2. You would be able to find **Photon PUN2+**. Download & Import it.
-![image](https://github.com/user-attachments/assets/c9c96eaf-7a5c-4237-bdad-a2baacb6d3bf)
+![image](https://github.com/user-attachments/assets/c9c96eaf-7a5c-4237-bdad-a2baacb6d3bf)  
 3. Access to **dashboard** of photonengine, make your app and **save APP ID** to your private storage(It is key to access to your photon server). And when you make app, choose **PUN** in type of Photon.
-![image](https://github.com/user-attachments/assets/b19e39e5-138a-488b-9214-10c8feff48b1)
+![image](https://github.com/user-attachments/assets/b19e39e5-138a-488b-9214-10c8feff48b1)  
 4. Come back to the unity project, and put **APP ID** you just saved to PUN Wizard. 
 
 <br><br>
