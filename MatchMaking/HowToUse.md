@@ -24,7 +24,7 @@ I'll let you know know how to apply photon&cinemachine in next step.
 <br><br>
 
 ## ✨ Make Lobby&Room
-![화면 캡처 2024-11-30 113017](https://github.com/user-attachments/assets/342218bc-91b8-4369-b4ea-dbd479a7b2a8)
+![화면 캡처 2024-11-30 113017](https://github.com/user-attachments/assets/342218bc-91b8-4369-b4ea-dbd479a7b2a8)  
 We're going to make game interface process like this.
 1. Make scripts named **PhotonManager.cs** and **AuthManager.cs**, fill code using **Scripts folder** in this folder.
 2. Put prefab of player object in **Resources** folder (to make object by string)
