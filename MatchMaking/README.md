@@ -12,7 +12,7 @@ This folder represent example of **match making** in Unity using Photon. You can
 <br><br>
 
 ## ✨ How to use?
-Each function will be seperated by folder. Please read **readme** file to know about additional settings of objects or how to use code. 
+Please read **HowToUse.md** in same folder to follow steps. 
 <br><br>
 
 ## ✨ contribution
