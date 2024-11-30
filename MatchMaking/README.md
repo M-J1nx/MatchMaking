@@ -6,9 +6,9 @@ This folder represent example of **match making** in Unity using Photon. You can
 <br><br>
 
 ## ✨ Environment
-Language : C#
-Database : MySQL
-IDE : Visual Studio Code
+- Language : C#  
+- Database : MySQL  
+- IDE : Visual Studio Code
 <br><br>
 
 ## ✨ How to use?
